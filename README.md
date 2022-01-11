@@ -4,7 +4,12 @@
 - I'm a wannabe Software Architect.
 - I currently use the .NET stack, mainly C# on Windows.
 
-![Scotts's github stats](https://github-readme-stats.vercel.app/api?username=piersmyers&show_icons=true)
+![Piers' github stats](https://github-readme-stats.vercel.app/api?username=piersmyers&show_icons=true)
+
+My [Stack Overflow](https://stackoverflow.com/users/275751/piers-myers) profile.
+
+![Piers' Stackoverflow Flair](https://stackoverflow.com/users/flair/275751.png?theme=dark)
+
 <!--
 **piersmyers/piersmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
