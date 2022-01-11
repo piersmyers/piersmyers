@@ -1,9 +1,3 @@
-### Hi there 👋
-
-- I'm a Software Engineer.
-- I'm a wannabe Software Architect.
-- I currently use the .NET stack, mainly C# on Windows.
-
 ![Piers' github stats](https://github-readme-stats.vercel.app/api?username=piersmyers&show_icons=true)
 
 My [Stack Overflow](https://stackoverflow.com/users/275751/piers-myers) profile.
