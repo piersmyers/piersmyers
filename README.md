@@ -1,4 +1,4 @@
-![Piers' github stats](https://github-readme-stats.vercel.app/api?username=piersmyers&show_icons=true)
+![Piers' github stats](https://github-readme-stats.vercel.app/api?username=piersmyers&theme=dark&show_icons=true)
 
 My [Stack Overflow](https://stackoverflow.com/users/275751/piers-myers) profile.
 
