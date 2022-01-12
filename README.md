@@ -1,4 +1,8 @@
+### Hi there 👋
+
 ![Piers' github stats](https://github-readme-stats.vercel.app/api?username=piersmyers&theme=dark&show_icons=true)
+
+<!-- ![Piers' github most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piersmyers&theme=dark) -->
 
 My [Stack Overflow](https://stackoverflow.com/users/275751/piers-myers) profile.
 
